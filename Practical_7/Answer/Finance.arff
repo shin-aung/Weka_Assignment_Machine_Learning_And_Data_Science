@@ -1,0 +1,19 @@
+@relation Main
+
+@attribute '﻿Finance/Investment Promotion' {Yes,No}
+@attribute 'Travel/Tour Promotion' {No,Yes}
+@attribute 'Reading/ Magazine Promotion' {Yes,No}
+@attribute 'Health/Diet Promotion' {No,Yes}
+@attribute Sex {Male,Female}
+
+@data
+Yes,No,Yes,No,Male
+Yes,Yes,No,No,Male
+No,Yes,Yes,Yes,Female
+No,Yes,No,Yes,Male
+Yes,Yes,Yes,Yes,Female
+No,No,Yes,No,Female
+Yes,No,No,No,Male
+Yes,Yes,No,No,Male
+No,No,No,Yes,Female
+Yes,No,No,No,Male

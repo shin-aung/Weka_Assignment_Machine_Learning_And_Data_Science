@@ -1,0 +1,21 @@
+@relation Practical_7
+
+@attribute '﻿Body weight' {Heavy,Normal,Low}
+@attribute 'Body Height' {Short,Tall,Medium}
+@attribute 'Blood Pressure' {High,Normal}
+@attribute 'Blood Sugar Level' numeric
+@attribute Habit {Smoker,Non_smoker}
+@attribute Class {P,N}
+
+@data
+Heavy,Short,High,3,Smoker,P
+Heavy,Short,High,1,Non_smoker,P
+Normal,Tall,Normal,3,Non_smoker,N
+Heavy,Tall,Normal,2,Smoker,N
+Low,Medium,Normal,2,Non_smoker,N
+Low,Tall,Normal,1,Non_smoker,P
+Normal,Medium,High,3,Smoker,P
+Low,Short,High,2,Smoker,P
+Heavy,Tall,High,2,Non_smoker,P
+Low,Medium,Normal,3,Smoker,P
+Heavy,Medium,Normal,3,Non_smoker,N

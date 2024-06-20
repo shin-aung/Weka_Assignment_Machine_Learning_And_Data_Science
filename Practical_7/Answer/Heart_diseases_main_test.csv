@@ -1,0 +1,7 @@
+﻿Body Weight,Body Height,Blood Pressure,Blood Sugar Level,Habit,Class
+Heavy,Short,High,2,Smoker,P
+Heavy,Tall,Normal,1,Smoker,N
+Heavy,Medium,Normal,3,Smoker,N
+Low,Short,Normal,3,Smoker,N
+Low,Medium,High,1,Non_smoker,N
+Low,Medium,High,3,Non_smoker,P
