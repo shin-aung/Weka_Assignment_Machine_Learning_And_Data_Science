@@ -1,0 +1,12 @@
+@relation 'Practice on Clustering-weka.filters.unsupervised.attribute.Remove-R1'
+
+@attribute x numeric
+@attribute y numeric
+
+@data
+1,1
+6,7
+4,6
+5,7
+5,2
+2,3
